@@ -1,0 +1,50 @@
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\bin\Debug\euzubesmele.exe.config
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\bin\Debug\euzubesmele.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\bin\Debug\euzubesmele.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.acılıs.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.favoriler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.Form1.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.kayit.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.kesfet.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.profilim.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.Properties.Resources.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.sepet.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.siparislerim.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.trendler.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.csproj.GenerateResource.Cache
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.exe
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.pdb
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.panel_ana_sayfa.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\bin\Debug\MySql.Data.dll
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.magaza.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.UserControl1.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.admin_anasayfa.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.kategori_ekle.resources
+C:\Users\win10\Documents\Visual Studio 2012\Projects\euzubesmele\euzubesmele\obj\Debug\euzubesmele.urun_detay.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\bin\Debug\euzubesmele.exe.config
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\bin\Debug\euzubesmele.exe
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\bin\Debug\euzubesmele.pdb
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.acılıs.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.admin_anasayfa.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.favoriler.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.Form1.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.kategori_ekle.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.kayit.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.kesfet.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.magaza.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.panel_ana_sayfa.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.profilim.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.Properties.Resources.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.sepet.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.siparislerim.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.trendler.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.urun_detay.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.UserControl1.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.csproj.CopyComplete
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.exe
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\euzubesmele.pdb

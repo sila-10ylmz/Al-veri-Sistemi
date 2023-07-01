@@ -1,0 +1,52 @@
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.Properties.Resources.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\bin\Debug\Alışveriş Sistemi.exe.config
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\bin\Debug\Alışveriş Sistemi.exe
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\bin\Debug\Alışveriş Sistemi.pdb
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.acılıs.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.admin_anasayfa.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.favoriler.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.Form1.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.kategori_ekle.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.kayit.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.kesfet.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.magaza.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.panel_ana_sayfa.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.profilim.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.sepet.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.siparislerim.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.trendler.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.urun_detay.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.UserControl1.resources
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alisveris_Sistemi.csproj.CopyComplete
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alışveriş Sistemi.exe
+\\Mac\Home\Desktop\euzubesmele\euzubesmele\obj\Debug\Alışveriş Sistemi.pdb
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\bin\Debug\Alışveriş Sistemi.exe.config
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\bin\Debug\Alışveriş Sistemi.exe
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\bin\Debug\Alışveriş Sistemi.pdb
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.acılıs.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.admin_anasayfa.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.favoriler.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.Form1.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.kategori_ekle.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.kayit.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.kesfet.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.magaza.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.panel_ana_sayfa.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.profilim.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.Properties.Resources.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.sepet.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.siparislerim.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.trendler.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.urun_detay.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.UserControl1.resources
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alisveris_Sistemi.csproj.CopyComplete
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alışveriş Sistemi.exe
+\\Mac\Home\Desktop\euzubesmele\Alisveris_Sistemi\obj\Debug\Alışveriş Sistemi.pdb
