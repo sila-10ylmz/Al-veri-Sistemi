@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{531ACE91-2D58-47B1-BBF6-35683EE7A66A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Alisveris_Sistemi</RootNamespace>
+    <AssemblyName>Alışveriş Sistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.31.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acılıs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acılıs.Designer.cs">
+      <DependentUpon>acılıs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_anasayfa.Designer.cs">
+      <DependentUpon>admin_anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="favoriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="favoriler.Designer.cs">
+      <DependentUpon>favoriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kategori_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kategori_ekle.Designer.cs">
+      <DependentUpon>kategori_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kayit.Designer.cs">
+      <DependentUpon>kayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kesfet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kesfet.Designer.cs">
+      <DependentUpon>kesfet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="magaza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="magaza.Designer.cs">
+      <DependentUpon>magaza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="panel_ana_sayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="panel_ana_sayfa.Designer.cs">
+      <DependentUpon>panel_ana_sayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profilim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profilim.Designer.cs">
+      <DependentUpon>profilim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="sepet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sepet.Designer.cs">
+      <DependentUpon>sepet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="siparislerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="siparislerim.Designer.cs">
+      <DependentUpon>siparislerim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trendler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trendler.Designer.cs">
+      <DependentUpon>trendler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="urun_detay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="urun_detay.Designer.cs">
+      <DependentUpon>urun_detay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veritabani.cs" />
+    <EmbeddedResource Include="acılıs.resx">
+      <DependentUpon>acılıs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_anasayfa.resx">
+      <DependentUpon>admin_anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="favoriler.resx">
+      <DependentUpon>favoriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kategori_ekle.resx">
+      <DependentUpon>kategori_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kayit.resx">
+      <DependentUpon>kayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kesfet.resx">
+      <DependentUpon>kesfet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="magaza.resx">
+      <DependentUpon>magaza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="panel_ana_sayfa.resx">
+      <DependentUpon>panel_ana_sayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profilim.resx">
+      <DependentUpon>profilim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sepet.resx">
+      <DependentUpon>sepet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="siparislerim.resx">
+      <DependentUpon>siparislerim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trendler.resx">
+      <DependentUpon>trendler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="urun_detay.resx">
+      <DependentUpon>urun_detay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_ust.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sol_menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yan_menu2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cicek.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu_bos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giriş.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Başlıksız-86ed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nikuu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nikeraerhaejpg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aramaa.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
